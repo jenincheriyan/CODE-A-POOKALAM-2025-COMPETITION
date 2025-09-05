@@ -23,8 +23,10 @@ I made this pookalam with python turtle module, first I made a few functions to 
 ## 🚀 How to Run
 
 ### Prerequisites
+```
 pip install turtle
 ### Running the Code
+```
 python3 pookalam.py
 
 ## 📁 File Structure
