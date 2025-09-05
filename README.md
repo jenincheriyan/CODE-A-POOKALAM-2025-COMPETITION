@@ -24,13 +24,8 @@ I made this pookalam with python turtle module, first I made a few functions to 
 
 ### Prerequisites
 pip install turtle
-```
-
 ### Running the Code
-```bash
-
 python3 pookalam.py
-```
 
 ## 📁 File Structure
 ```
