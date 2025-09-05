@@ -4,7 +4,7 @@
 - **Name: Jenin Cheriyan** 
 - **Institution/Company: RIT Kottayam**
 - **GitHub: [@jenincheriyan](https://github.com/jenincheriyan)**
-- **Programming Language Used: Python ** 
+- **Programming Language Used: Python** 
 
 ## 🎨 My Pookalam
 
